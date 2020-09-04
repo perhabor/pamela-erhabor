@@ -1,0 +1,33 @@
+                 Solutions.
+           
+1. GitHub is a Git repository hosting service,but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+
+2. Version control enable developers to move faster and it allows software teams to preserve efficiency and agility as the team scales to include more developers.
+i. Version control systems allow you to compare files, identify differences, and merge the changes if needed prior to committing any code. 
+
+3. Any high level language can be used. Git isnt a programming environment, its a system for maintaining the source code of software so that earlier versions can be accessed, and multiple people can work on it, with changes merged.
+4.
+i.   GitHub.
+ii.  GitLab.
+iii. Bitbucket.
+iv.  SourceForge.
+
+5. In software development, a repository is a central file storage location. It is used by version control systems to store multiple versions of files.These files are imported from the repository into the local server of the user for further updations and modifications in the content of the file.
+6. 
+i.   Start a new git repository
+ii.  Create a directory to contain the project.
+iii. Go into the new directory.
+iv.  Type git init .
+v    Write some code.
+vi.  Type git add to add the files (see the typical use page).
+vii. Type git commit.
+
+7.   push Command: The git push command is used to upload local repository content to a remote repository.
+    Git commit: The "commit" command is used to save your changes to the local repository.
+    Git Add: Adds files in the to the staging area for Git. Before a file is available to commit to a repository, the file needs to be added to the Git index (staging area).
+
+8.  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+    
+9.  The git directory contains all the information that is necessary for your project in version control and all the information about commits, remote repository address, etc.
+
+10.  If you remove the files in the directory then the directory no longer exists under the version control.
